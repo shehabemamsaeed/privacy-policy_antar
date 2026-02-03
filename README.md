@@ -3,9 +3,9 @@
  🔒 Privacy Policy
 
 AntarDrugs — Operated by Antar Pharmaceuticals
-Last Updated: [Insert Date]
+Last Updated: 2/3/2026
 
-At AntarDrugs, owned and operated by Antar Pharmaceuticals (“we”, “us”, or “our”), we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, store, and safeguard your data when you use our website and services.
+At AntarDrugs, owned and operated by Antar Pharmaceuticals , we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, store, and safeguard your data when you use our website and services.
 
 1. Information We Collect
 1.1 Personal Information
@@ -113,7 +113,7 @@ Withdraw consent for specific data uses
 Request a copy of your data
 
 To exercise your rights, contact us at:
-📧 support@antardrugs.com
+📧 info@antardrugs.com
 
 7. Third-Party Links
 
@@ -129,7 +129,7 @@ The updated version will be posted on this page with a new “Last Updated” da
 
 If you have any questions or concerns regarding this Privacy Policy, you can contact us at:
 
-📧 support@antardrugs.com
+📧 info@antardrugs.com
 
 🏢 Antar Pharmaceuticals
 
